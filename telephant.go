@@ -12,7 +12,7 @@ import (
 	"github.com/therecipe/qt/quickcontrols2"
 
 	gap "github.com/muesli/go-app-paths"
-	"github.com/muesli/telephant/accounts/mastodon"
+	"github.com/nueh/telephant/accounts/mastodon"
 )
 
 var (
