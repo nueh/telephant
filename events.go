@@ -1,11 +1,11 @@
-package main
+hpackage main
 
 import (
 	"fmt"
 	"log"
 	"strings"
 
-	"github.com/muesli/telephant/accounts"
+	"github.com/nueh/telephant/accounts"
 )
 
 // messageFromEvent creates a new Message object from an incoming MessageEvent.
