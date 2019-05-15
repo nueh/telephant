@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/muesli/telephant/accounts/mastodon"
+	"github.com/nueh/telephant/accounts/mastodon"
 	"github.com/therecipe/qt/core"
 )
 
