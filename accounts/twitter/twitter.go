@@ -11,7 +11,7 @@ import (
 
 	"github.com/ChimeraCoder/anaconda"
 
-	"github.com/muesli/telephant/accounts"
+	"github.com/nueh/telephant/accounts"
 )
 
 const (

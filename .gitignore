@@ -16,6 +16,11 @@
 # IDE stuff
 .vscode
 
+# macOS stuff
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # Generated sources
 *.cpp
 *.h
