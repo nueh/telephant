@@ -10,7 +10,7 @@ import (
 
 	"github.com/mattn/go-mastodon"
 
-	"github.com/muesli/telephant/accounts"
+	"github.com/nueh/telephant/accounts"
 )
 
 const (
@@ -50,7 +50,7 @@ func RegisterAccount(instance string) (*Account, string, string, error) {
 		Server:     instance,
 		ClientName: "Telephant",
 		Scopes:     "read write follow post",
-		Website:    "https://github.com/muesli/telephant",
+		Website:    "https://github.com/nueh/telephant",
 	})
 	if err != nil {
 		return nil, "", "", err
